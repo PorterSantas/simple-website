@@ -1,0 +1,57 @@
+
+      p {
+        font-family: Roboto;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        }
+        
+      .video-title {
+        font-size: 18px;
+        font-weight: bold;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 5px;
+        }
+    
+      .video-stats {
+        font-size: 14px;
+        color: rgb(82, 82, 82);
+        margin-bottom: 20px;
+      }
+   
+      .video-author {
+        color: rgb(82, 82, 82);
+        margin-bottom: 20px;
+      }
+   
+      .video-description {
+        font-size: 14px;
+        color: rgb(82, 82, 82);
+        width: 300px;
+        line-height: 22px;
+        margin-bottom: 100px;
+      }
+      
+
+      .apple-message {
+        margin-bottom: 50px;
+        font-size: 14px;
+        background-color: rgb(252, 64, 64);
+        color: white;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        
+      }
+   
+      .shop-now {
+        color: white;
+        text-decoration: none;
+      }
+   
+      .shop-now:hover {
+        text-decoration: underline;
+      }
+    
+     
+    
